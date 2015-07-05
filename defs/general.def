@@ -1,0 +1,17 @@
+# Module short name
+MODULEIDNAME       = rsslib
+
+# Module version number
+MODULEVERSION      = 1.0.0
+
+# Module release date
+MODULEDATE         = 19/06/2001
+
+# Module long description
+MODULEDESCRIPTION  = RSS parsing library. Requires PHP4 with PCRE support. Handles RSS 0.9 and 0.91
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
